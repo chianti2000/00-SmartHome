@@ -13,7 +13,7 @@ Im ersten Schritt bestand die folgende Zielsetzung bezüglich der Funktionalitä
 
 - [ ] Testboard für den Frequenztest /Frequenzkorrektur des CC1101 in Verbindung mit 328P-AU bzw. 1284P-AU, so daß der CC1101 mit dem angepassten AVR-Chip später direkt gemeinsam "verbaut" werden kann.
 
-- [ ] Weiterentwicklung der "Testklemme" mit POGO-Pins von Toms Testbench zur Testklammer zum schnelleren /einfacheren CC1101 Tausch. Herausführen des GDO2-Pins als Möglichkeit für den Anschluss eines Oszillators.
+- [ ] Weiterentwicklung der "Testklemme" mit POGO-Pins von Toms Testbench  https://github.com/TomMajor/SmartHome/tree/master/HB-CC1101-Testbench zur Testklammer zum schnelleren /einfacheren CC1101 Tausch. Herausführen des GDO2-Pins als Möglichkeit für den Anschluss eines Oszillators.
 
 - [ ] Spannungsversorgung über Batteriezelle AA und Wandler auf 3,3 V oder USB-Anschluss mit Spannungsregler 3,3V. Der USB Buchsen Typ kann über ein aufgelötetes USB-DIP Board nach eigenen Wünschen gewählt werden. Vorwahl der Einspeisung über Jumper, hier kann bei Bedarf auch der Gesamtstrom gemessen werden. Das CLOCK-Signal kann über den Jumper CLOCKSEL deaktiviert werden um die Strommessung nicht zu verfälschen.
 
@@ -28,9 +28,6 @@ Der Sockel für den 1284P-AU wurde entsprechend dem BOBUINO-Pinout beschriftet u
 Für den Frequenztest mit Standard-Pinout ist trotzdem ein anderer Sketch als für den "klassischen" Test mit Bobuino-Pinout notwendig. Ich habe beide Varianten unter FILES abgelegt.  
 
 ### Bilder
-
-
-
 
 ## HB-UNI-TEST-PROG-BOARD_V2.2
 
@@ -52,5 +49,18 @@ Als Nebeneffekt kann über den verbauten FTDI-Adapter direkt auf den FTDI-Anschl
 
 ## Testklammer für CC1101
 
-Als Weiterentwicklung der Testklemme von Toms Testbench ist zum schnelleren Wechsel des CC1101 diese Testklammer entstanden.
+Als Weiterentwicklung der Testklemme von Toms Testbench https://github.com/TomMajor/SmartHome/tree/master/HB-CC1101-Testbench ist zum schnelleren Wechsel des CC1101 diese Testklammer entstanden.
 
+## Links
+
+https://github.com/TomMajor/SmartHome/tree/master/HB-CC1101-Testbench
+
+https://github.com/pa-pa/AskSinPP/tree/master/examples/FreqTest
+
+## Lizenz
+
+**Creative Commons BY-NC-SA**
+Give Credit, NonCommercial, ShareAlike
+
+[![Creative Commons License](https://camo.githubusercontent.com/f05d4039b67688cfdf339d2a445ad686a60551f9891734c418f7096184de5fac/68747470733a2f2f692e6372656174697665636f6d6d6f6e732e6f72672f6c2f62792d6e632d73612f342e302f38387833312e706e67)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
