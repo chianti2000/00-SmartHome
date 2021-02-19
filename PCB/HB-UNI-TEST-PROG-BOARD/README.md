@@ -27,6 +27,11 @@ Der Sockel für den 1284P-AU wurde entsprechend dem BOBUINO-Pinout beschriftet u
 
 Für den Frequenztest mit Standard-Pinout ist trotzdem ein anderer Sketch als für den "klassischen" Test mit Bobuino-Pinout notwendig. Ich habe beide Varianten unter FILES abgelegt.  
 
+### Bilder
+
+
+
+
 ## HB-UNI-TEST-PROG-BOARD_V2.2
 
 In einer zweiten Variante wurde das  HB-UNI-TEST-PROG-BOARD um eine Testbench für den Arduino Pro Mini mit den o.g. Funktionalitäten erweitert.
@@ -34,3 +39,18 @@ In einer zweiten Variante wurde das  HB-UNI-TEST-PROG-BOARD um eine Testbench f�
 Der Arduino Pro Mini kann sowohl über den FTDI-Adapter als auch über den ISP programmiert werden. Im Fall des ISP ist ein setzen der FUSES und aufspielen eines neuen Bootloaders des Arduino Pro Mini möglich.
 
 Als Nebeneffekt kann über den verbauten FTDI-Adapter direkt auf den FTDI-Anschluss des Boards zum Hochladen bzw. als serieller Monitor zugegriffen werden. Wenn man den Arduino Pro Mini als ISP programmiert, kann er als ISP-Programmer für die AVR-Chips auf den Sockel genutzt werden.
+
+### Bilder
+
+
+
+### Funktionen
+
+
+
+
+
+## Testklammer für CC1101
+
+Als Weiterentwicklung der Testklemme von Toms Testbench ist zum schnelleren Wechsel des CC1101 diese Testklammer entstanden.
+
