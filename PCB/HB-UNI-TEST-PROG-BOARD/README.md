@@ -44,7 +44,7 @@ Als Nebeneffekt kann über den verbauten FTDI-Adapter direkt auf den FTDI-Anschl
 ### Bilder
 ![alt text](https://github.com/chianti2000/00-SmartHome/blob/main/PCB/HB-UNI-TEST-PROG-BOARD/IMAGES/HB-UNI-TEST-PROG-BOARD_V2.2_Front.png)
 ![alt text](https://github.com/chianti2000/00-SmartHome/blob/main/PCB/HB-UNI-TEST-PROG-BOARD/IMAGES/IMG_9085.jpg)
-![alt text](https://github.com/chianti2000/00-SmartHome/blob/main/PCB/HB-UNI-TEST-PROG-BOARD/IMAGES/IMG_9028.jpg)
+![alt text]()
 
 ### Schemata
 https://github.com/chianti2000/00-SmartHome/blob/main/PCB/HB-UNI-TEST-PROG-BOARD/FILES/Schema%20HB-UNI-TEST-PROG-BOARD_V2.2.pdf
