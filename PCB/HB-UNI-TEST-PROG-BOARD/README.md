@@ -32,7 +32,7 @@ F√ºr den Frequenztest mit Standard-Pinout ist trotzdem ein anderer Sketch als f√
 
 ### Schemata / Gerber-File
 [:arrow_right: Schemata HB-UNI-TEST-PROG-BOARD_V1.2](FILES/Schema_HB-UNI-TEST-PROG-BOARD_V1.2.pdf)
-[:arrow_right: Gerber HB-UNI-TEST-PROG-BOARD_V2.2](GERBER/HB-UNI-TEST-PROG-BOARD_V1.2.rar)
+[:arrow_right: Gerber HB-UNI-TEST-PROG-BOARD_V1.2](GERBER/HB-UNI-TEST-PROG-BOARD_V1.2.rar)
 
 ## HB-UNI-TEST-PROG-BOARD_V2.2
 
