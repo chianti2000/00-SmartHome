@@ -62,12 +62,13 @@ Als Nebeneffekt kann über den verbauten FTDI-Adapter direkt auf den FTDI-Anschl
 Als Weiterentwicklung und Anpassung der Testklemme von Toms Testbench (https://github.com/TomMajor/SmartHome/tree/master/HB-CC1101-Testbench) sowie von Patricks HM-Sensor Programmierklemme (https://www.thingiverse.com/thing:4564797) ist zum schnelleren Wechsel des CC1101 diese Testklammer entstanden.
 
 Man benötigt neben den 3D-Druckteilen:
+
 1x  Druckfeder 9.5x19mm
 11x Pogo-pin 1,3mm Konische Kopf 1,0mm Fingerhut Für Elektrowerkzeug P75-E2 (z.B. von hier https://de.aliexpress.com/item/32874022638.html?spm=a2g0s.9042311.0.0.27424c4dGXI81E)
 1x  M3 Mutter
 1x  M3x12mm Schraube
 
-Die Löcher für die Pogos müssen ggf. nachgebohrt werden.
+Die Löcher für die Pogos müssen ggf. nachgebohrt werden. Den Antennendraht habe ich auf 72 mm Länge geschnitten, da der Pogo-Pin ca. 14 mm lang ist und schon als Antenne wirkt (72mm + 14mm = 86 mm).
 
 ### Bilder
 <img src="IMAGES/IMG_8985.jpg" width=330></img><img src="IMAGES/IMG_8989.jpg" width=330></img><img src="IMAGES/IMG_8990.jpg" width=330></img>
