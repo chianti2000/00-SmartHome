@@ -55,17 +55,10 @@ https://github.com/chianti2000/00-SmartHome/blob/main/PCB/HB-UNI-TEST-PROG-BOARD
 Als Weiterentwicklung der Testklemme von Toms Testbench https://github.com/TomMajor/SmartHome/tree/master/HB-CC1101-Testbench ist zum schnelleren Wechsel des CC1101 diese Testklammer entstanden.
 
 ### Bilder
-![alt text](https://github.com/chianti2000/00-SmartHome/blob/main/PCB/HB-UNI-TEST-PROG-BOARD/IMAGES/IMG_8985.jpg)
-![alt text](https://github.com/chianti2000/00-SmartHome/blob/main/PCB/HB-UNI-TEST-PROG-BOARD/IMAGES/IMG_8989.jpg)
-![alt text](https://github.com/chianti2000/00-SmartHome/blob/main/PCB/HB-UNI-TEST-PROG-BOARD/IMAGES/IMG_8990.jpg)
-![alt text](https://github.com/chianti2000/00-SmartHome/blob/main/PCB/HB-UNI-TEST-PROG-BOARD/IMAGES/IMG_8992.jpg)
-![alt text](https://github.com/chianti2000/00-SmartHome/blob/main/PCB/HB-UNI-TEST-PROG-BOARD/IMAGES/IMG_8994.jpg)
-![alt text](https://github.com/chianti2000/00-SmartHome/blob/main/PCB/HB-UNI-TEST-PROG-BOARD/IMAGES/IMG_8999.jpg)
-![alt text](https://github.com/chianti2000/00-SmartHome/blob/main/PCB/HB-UNI-TEST-PROG-BOARD/IMAGES/IMG_9003.jpg)
-![alt text](https://github.com/chianti2000/00-SmartHome/blob/main/PCB/HB-UNI-TEST-PROG-BOARD/IMAGES/IMG_9008.jpg)
-![alt text](https://github.com/chianti2000/00-SmartHome/blob/main/PCB/HB-UNI-TEST-PROG-BOARD/IMAGES/IMG_9017.jpg)
-![alt text](https://github.com/chianti2000/00-SmartHome/blob/main/PCB/HB-UNI-TEST-PROG-BOARD/IMAGES/IMG_9031.jpg)
-![alt text](https://github.com/chianti2000/00-SmartHome/blob/main/PCB/HB-UNI-TEST-PROG-BOARD/IMAGES/IMG_9093.jpg)
+<img src="IMAGES/IMG_8985.jpg" width=330></img><img src="IMAGES/IMG_8989.jpg" width=330></img><img src="IMAGES/IMG_8990.jpg" width=330></img>
+<img src="IMAGES/IMG_8992.jpg" width=330></img><img src="IMAGES/IMG_8994.jpg" width=330></img><img src="IMAGES/IMG_8999.jpg" width=330></img>
+<img src="IMAGES/IMG_9003.jpg" width=330></img><img src="IMAGES/IMG_9008.jpg" width=330></img><img src="IMAGES/IMG_9017.jpg" width=330></img>
+<img src="IMAGES/IMG_9031.jpg" width=330></img><img src="IMAGES/IMG_9093.jpg" width=330></img>
 
 ## Links
 
