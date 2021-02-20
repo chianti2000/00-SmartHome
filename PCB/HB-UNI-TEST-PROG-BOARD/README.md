@@ -28,8 +28,8 @@ Der Sockel für den 1284P-AU wurde entsprechend dem BOBUINO-Pinout beschriftet u
 Für den Frequenztest mit Standard-Pinout ist trotzdem ein anderer Sketch als für den "klassischen" Test mit Bobuino-Pinout notwendig. Ich habe beide Varianten unter FILES abgelegt.  
 
 ### Bilder
-![alt text](https://github.com/chianti2000/00-SmartHome/blob/main/PCB/HB-UNI-TEST-PROG-BOARD/IMAGES/HB-UNI-TEST-PROG-BOARD_V1.2_Front.png)
-<img src="IMAGES/HB-UNI-TEST-PROG-BOARD_V1.2_Front.png" width=600></img><img src="IMAGES/IMG_9028.jpg" width=300 height=350></img>
+<img src="IMAGES/HB-UNI-TEST-PROG-BOARD_V1.2_Front.png" width=600></img>
+
 ### Schemata
 https://github.com/chianti2000/00-SmartHome/blob/main/PCB/HB-UNI-TEST-PROG-BOARD/FILES/Schema_HB-UNI-TEST-PROG-BOARD_V1.2.pdf
 
@@ -42,9 +42,9 @@ Der Arduino Pro Mini kann sowohl über den FTDI-Adapter als auch über den ISP p
 Als Nebeneffekt kann über den verbauten FTDI-Adapter direkt auf den FTDI-Anschluss des Boards zum Hochladen bzw. als serieller Monitor zugegriffen werden. Wenn man den Arduino Pro Mini als ISP programmiert, kann er als ISP-Programmer für die AVR-Chips auf den Sockel genutzt werden.
 
 ### Bilder
-![alt text](https://github.com/chianti2000/00-SmartHome/blob/main/PCB/HB-UNI-TEST-PROG-BOARD/IMAGES/HB-UNI-TEST-PROG-BOARD_V2.2_Front.png)
-![alt text](https://github.com/chianti2000/00-SmartHome/blob/main/PCB/HB-UNI-TEST-PROG-BOARD/IMAGES/IMG_9028.jpg)
-![alt text](https://github.com/chianti2000/00-SmartHome/blob/main/PCB/HB-UNI-TEST-PROG-BOARD/IMAGES/IMG_9085.jpg)
+<img src="IMAGES/HB-UNI-TEST-PROG-BOARD_V2.2_Front.png" width=600></img>
+<img src="IMAGES/IMG_9028.jpg" width=600></img>
+<img src="IMAGES/IMG_IMG_9085.jpg" width=600></img>
 
 ### Schemata
 https://github.com/chianti2000/00-SmartHome/blob/main/PCB/HB-UNI-TEST-PROG-BOARD/FILES/Schema%20HB-UNI-TEST-PROG-BOARD_V2.2.pdf
