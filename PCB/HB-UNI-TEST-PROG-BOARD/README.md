@@ -64,11 +64,8 @@ Als Weiterentwicklung und Anpassung der Testklemme von Toms Testbench (https://g
 Man benötigt neben den 3D-Druckteilen:
 
 - 1x  Druckfeder 9.5x19mm
-
 - 11x Pogo-pin 1,3mm Konische Kopf 1,0mm Fingerhut Für Elektrowerkzeug P75-E2 (z.B. von hier https://de.aliexpress.com/item/32874022638.html?spm=a2g0s.9042311.0.0.27424c4dGXI81E)
-
 - 1x  M3 Mutter
-
 - 1x  M3x12mm Schraube
 
 Die Löcher für die Pogos müssen ggf. nachgebohrt werden. Den Antennendraht habe ich auf 72 mm Länge geschnitten, da der Pogo-Pin ca. 14 mm lang ist und schon als Antenne wirkt (72mm + 14mm = 86 mm).
