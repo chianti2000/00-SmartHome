@@ -45,7 +45,7 @@ Als Nebeneffekt kann über den verbauten FTDI-Adapter direkt auf den FTDI-Anschl
 <img src="IMAGES/HB-UNI-TEST-PROG-BOARD_V2.2_Front.png" width=330></img><img src="IMAGES/IMG_9028.jpg" width=330></img><img src="IMAGES/IMG_9085.jpg" width=330></img>
 
 ### Schemata
-[:arrow_right: Schemata HB-UNI-TEST-PROG-BOARD_V1.2](FILES/Schema_HB-UNI-TEST-PROG-BOARD_V2.2.pdf)
+[:arrow_right: Schemata HB-UNI-TEST-PROG-BOARD_V2.2](FILES/Schema HB-UNI-TEST-PROG-BOARD_V2.2.pdf)
 
 ### Funktionen
 
