@@ -51,7 +51,7 @@ https://github.com/chianti2000/00-SmartHome/blob/main/PCB/HB-UNI-TEST-PROG-BOARD
 
 <img src="FILES/HB-UNI-TEST-PROG-BOARD_Funktionswahlschalter_1.jpg" width=500></img>
 <img src="FILES/HB-UNI-TEST-PROG-BOARD_Funktionswahlschalter_2.jpg" width=500></img>
-
+![alt text](https://github.com/chianti2000/00-SmartHome/blob/main/PCB/HB-UNI-TEST-PROG-BOARD/FILES/HB-UNI-TEST-PROG-BOARD_Funktionswahlschalter_1.jpg)
 
 ## Testklammer für CC1101
 
