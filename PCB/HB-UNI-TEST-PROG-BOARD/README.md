@@ -30,8 +30,9 @@ Für den Frequenztest mit Standard-Pinout ist trotzdem ein anderer Sketch als f�
 ### Bilder
 <img src="IMAGES/HB-UNI-TEST-PROG-BOARD_V1.2_Front.png" width=400></img>
 
-### Schemata
+### Schemata / Gerber-File
 [:arrow_right: Schemata HB-UNI-TEST-PROG-BOARD_V1.2](FILES/Schema_HB-UNI-TEST-PROG-BOARD_V1.2.pdf)
+[:arrow_right: Gerber HB-UNI-TEST-PROG-BOARD_V2.2](GERBER/HB-UNI-TEST-PROG-BOARD_V1.2.rar)
 
 ## HB-UNI-TEST-PROG-BOARD_V2.2
 
@@ -44,8 +45,9 @@ Als Nebeneffekt kann über den verbauten FTDI-Adapter direkt auf den FTDI-Anschl
 ### Bilder
 <img src="IMAGES/HB-UNI-TEST-PROG-BOARD_V2.2_Front.png" width=330></img><img src="IMAGES/IMG_9028.jpg" width=330></img><img src="IMAGES/IMG_9085.jpg" width=330></img>
 
-### Schemata
+### Schemata / Gerber-File
 [:arrow_right: Schemata HB-UNI-TEST-PROG-BOARD_V2.2](FILES/Schema_HB-UNI-TEST-PROG-BOARD_V2.2.pdf)
+[:arrow_right: Gerber HB-UNI-TEST-PROG-BOARD_V2.2](GERBER/HB-UNI-TEST-PROG-BOARD_V2.2.rar)
 
 ### Funktionen
 Über DIP-Schalter lassen sich die gewünschten Funktionen des Boards gemäß dieser Tabellen einstellen.
