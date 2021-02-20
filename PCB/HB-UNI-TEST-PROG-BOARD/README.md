@@ -32,7 +32,6 @@ Für den Frequenztest mit Standard-Pinout ist trotzdem ein anderer Sketch als f�
 
 ### Schemata
 [:arrow_right: Schemata HB-UNI-TEST-PROG-BOARD_V1.2](FILES/Schema_HB-UNI-TEST-PROG-BOARD_V1.2.pdf)
-https://github.com/chianti2000/00-SmartHome/blob/main/PCB/HB-UNI-TEST-PROG-BOARD/FILES/Schema_HB-UNI-TEST-PROG-BOARD_V1.2.pdf
 
 ## HB-UNI-TEST-PROG-BOARD_V2.2
 
@@ -46,7 +45,7 @@ Als Nebeneffekt kann über den verbauten FTDI-Adapter direkt auf den FTDI-Anschl
 <img src="IMAGES/HB-UNI-TEST-PROG-BOARD_V2.2_Front.png" width=330></img><img src="IMAGES/IMG_9028.jpg" width=330></img><img src="IMAGES/IMG_9085.jpg" width=330></img>
 
 ### Schemata
-https://github.com/chianti2000/00-SmartHome/blob/main/PCB/HB-UNI-TEST-PROG-BOARD/FILES/Schema%20HB-UNI-TEST-PROG-BOARD_V2.2.pdf
+[:arrow_right: Schemata HB-UNI-TEST-PROG-BOARD_V1.2](FILES/Schema_HB-UNI-TEST-PROG-BOARD_V2.2.pdf)
 
 ### Funktionen
 
