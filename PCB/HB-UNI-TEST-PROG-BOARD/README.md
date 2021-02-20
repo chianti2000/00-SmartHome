@@ -42,8 +42,8 @@ Der Arduino Pro Mini kann sowohl über den FTDI-Adapter als auch über den ISP p
 Als Nebeneffekt kann über den verbauten FTDI-Adapter direkt auf den FTDI-Anschluss des Boards zum Hochladen bzw. als serieller Monitor zugegriffen werden. Wenn man den Arduino Pro Mini als ISP programmiert, kann er als ISP-Programmer für die AVR-Chips auf den Sockel genutzt werden.
 
 ### Bilder
-<img src="IMAGES/HB-UNI-TEST-PROG-BOARD_V2.2_Front.png" width=600></img>
-<img src="IMAGES/IMG_9028.jpg" width=400></img><img src="IMAGES/IMG_IMG_9085.jpg" width=500></img>
+<img src="IMAGES/HB-UNI-TEST-PROG-BOARD_V2.2_Front.png" width=500></img>
+<img src="IMAGES/IMG_9028.jpg" width=500></img><img src="IMAGES/IMG_IMG_9085.jpg" width=500></img>
 <img src="IMAGES/IMG_9028.jpg" width=300></img><img src="IMAGES/IMG_9085.jpg" width=300></img>
 
 ### Schemata
