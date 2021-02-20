@@ -28,7 +28,7 @@ Der Sockel für den 1284P-AU wurde entsprechend dem BOBUINO-Pinout beschriftet u
 Für den Frequenztest mit Standard-Pinout ist trotzdem ein anderer Sketch als für den "klassischen" Test mit Bobuino-Pinout notwendig. Ich habe beide Varianten unter FILES abgelegt.  
 
 ### Bilder
-![alt text](https://github.com/chianti2000/00-SmartHome/blob/main/PCB/HB-UNI-TEST-PROG-BOARD/IMAGES/HB-UNI-TEST-PROG-BOARD_V1.2_Front.png =250x)
+![alt text](https://github.com/chianti2000/00-SmartHome/blob/main/PCB/HB-UNI-TEST-PROG-BOARD/IMAGES/HB-UNI-TEST-PROG-BOARD_V1.2_Front.png)
 
 ### Schemata
 https://github.com/chianti2000/00-SmartHome/blob/main/PCB/HB-UNI-TEST-PROG-BOARD/FILES/Schema_HB-UNI-TEST-PROG-BOARD_V1.2.pdf
