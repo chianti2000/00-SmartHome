@@ -31,6 +31,7 @@ F√ºr den Frequenztest mit Standard-Pinout ist trotzdem ein anderer Sketch als f√
 <img src="IMAGES/HB-UNI-TEST-PROG-BOARD_V1.2_Front.png" width=400></img>
 
 ### Schemata
+[:arrow_right: Schemata HB-UNI-TEST-PROG-BOARD_V1.2](PCB/Files/Schema_HB-UNI-TEST-PROG-BOARD_V1.2.pdf)
 https://github.com/chianti2000/00-SmartHome/blob/main/PCB/HB-UNI-TEST-PROG-BOARD/FILES/Schema_HB-UNI-TEST-PROG-BOARD_V1.2.pdf
 
 ## HB-UNI-TEST-PROG-BOARD_V2.2
