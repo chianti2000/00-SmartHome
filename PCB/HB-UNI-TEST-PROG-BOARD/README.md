@@ -48,10 +48,13 @@ Als Nebeneffekt kann über den verbauten FTDI-Adapter direkt auf den FTDI-Anschl
 [:arrow_right: Schemata HB-UNI-TEST-PROG-BOARD_V2.2](FILES/Schema_HB-UNI-TEST-PROG-BOARD_V2.2.pdf)
 
 ### Funktionen
-
+Über DIP-Schalter lassen sich die gewünschten Funktionen des Boards gemäß dieser Tabellen einstellen.
 <img src="FILES/HB-UNI-TEST-PROG-BOARD_Funktionswahlschalter_1.jpg" width=500></img>
 <img src="FILES/HB-UNI-TEST-PROG-BOARD_Funktionswahlschalter_2.jpg" width=500></img>
-![alt text](https://github.com/chianti2000/00-SmartHome/blob/main/PCB/HB-UNI-TEST-PROG-BOARD/FILES/HB-UNI-TEST-PROG-BOARD_Funktionswahlschalter_1.pdf)
+
+[:arrow_right: PROGRAMMIERUNG UND FREQUENZPAIRING AVR-CHIP (328P-AU/1284P-AU) AUF TQFP-32 oder -44 Sockel](FILES/HB-UNI-TEST-PROG-BOARD_Funktionswahlschalter_1.pdf)
+
+[:arrow_right: PROGRAMMIERUNG UND FREQUENZPAIRING ARDUINO PRO NANO AUF 24 +4 POLIGEM SOCKEL](FILES/HB-UNI-TEST-PROG-BOARD_Funktionswahlschalter_2.pdf)
 
 ## Testklammer für CC1101
 
