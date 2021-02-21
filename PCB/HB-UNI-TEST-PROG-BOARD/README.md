@@ -72,6 +72,8 @@ Man benötigt neben den 3D-Druckteilen:
 
 Die Löcher für die Pogos müssen ggf. nachgebohrt werden. Den Antennendraht habe ich auf 72 mm Länge geschnitten, da der Pogo-Pin ca. 14 mm lang ist und schon als Antenne wirkt (72mm + 14mm = 86 mm).
 
+Auf den nachfolgenden Bildern ist der Zusammenbau gut zu erkennen. Die Dummyplatte kommt nach dem
+
 ### Bilder
 <img src="IMAGES/IMG_8985.jpg" width=330></img><img src="IMAGES/IMG_8989.jpg" width=330></img><img src="IMAGES/IMG_8990.jpg" width=330></img>
 <img src="IMAGES/IMG_8992.jpg" width=330></img><img src="IMAGES/IMG_8994.jpg" width=330></img><img src="IMAGES/IMG_8999.jpg" width=330></img>
