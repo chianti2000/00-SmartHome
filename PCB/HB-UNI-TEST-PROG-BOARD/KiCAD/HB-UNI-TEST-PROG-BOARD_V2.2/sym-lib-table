@@ -1,0 +1,11 @@
+(sym_lib_table
+  (lib (name cc1101)(type Legacy)(uri ${KIPRJMOD}/additional/cc1101.lib)(options "")(descr ""))
+  (lib (name HB-UNI-644-rescue)(type Legacy)(uri ${KIPRJMOD}/HB-UNI-644-rescue.lib)(options "")(descr ""))
+  (lib (name PROGADAPTER_V1.1-rescue)(type Legacy)(uri ${KIPRJMOD}/PROGADAPTER_V1.1-rescue.lib)(options "")(descr ""))
+  (lib (name HB-UNI-TEST-PROG-BOARD_V1.1-rescue)(type Legacy)(uri ${KIPRJMOD}/HB-UNI-TEST-PROG-BOARD_V1.1-rescue.lib)(options "")(descr ""))
+  (lib (name HB-UNI-TEST-PROG-BOARD_V1.3-rescue)(type Legacy)(uri ${KIPRJMOD}/HB-UNI-TEST-PROG-BOARD_V1.3-rescue.lib)(options "")(descr ""))
+  (lib (name HB-V_Test-rescue)(type Legacy)(uri ${KIPRJMOD}/HB-V_Test-rescue.lib)(options "")(descr ""))
+  (lib (name HB-UNI-TEST-PROG-BOARD_V1.2-rescue)(type Legacy)(uri ${KIPRJMOD}/HB-UNI-TEST-PROG-BOARD_V1.2-rescue.lib)(options "")(descr ""))
+  (lib (name HB-UNI-TEST-PROG-BOARD_V2.1-rescue)(type Legacy)(uri ${KIPRJMOD}/HB-UNI-TEST-PROG-BOARD_V2.1-rescue.lib)(options "")(descr ""))
+  (lib (name HB-UNI-TEST-PROG-BOARD_V2.2-rescue)(type Legacy)(uri ${KIPRJMOD}/HB-UNI-TEST-PROG-BOARD_V2.2-rescue.lib)(options "")(descr ""))
+)
