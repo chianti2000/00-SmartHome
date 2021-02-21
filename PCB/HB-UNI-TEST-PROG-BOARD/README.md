@@ -85,6 +85,55 @@ Die Dummyplatte wird nach dem Einstecken der Pogo-Stifte Oben aufgesteckt (das g
 
 <img src="IMAGES/IMG_9031.jpg" width=330></img><img src="IMAGES/IMG_9093.jpg" width=330></img>
 
+
+### Stückliste
+| STÜCKLISTE |                           |                                |                                 |                                      |
+| ---------- | ------------------------- | ------------------------------ | ------------------------------- | ------------------------------------ |
+|            |                           |                                |                                 |                                      |
+| Anzahl     | Name                      | Wert                           | Gehäuse                         | Bemerkung                            |
+|            | BT1                       | Batteriehalter AA              |                                 | KEYSTONE 1028 oder GOOBAY_AA         |
+|            | C1, C3                    | 100µF/16V                      | bedrahtet, Radial               |                                      |
+|            | C5  - C12, C14 - C15, C18 | 100n                           | 0805                            |                                      |
+|            | C13                       | 1µ                             | 0805                            |                                      |
+|            | C2, C4, C17               | 10µF /16V                      | 0805                            |                                      |
+|            | R1, R2, R3, R6-R8,  R20   | 10k                            | 0805                            |                                      |
+|            | R9                        | 100k                           | 0805                            |                                      |
+|            | R4, R5,R10, R18           | 1,5k                           | 0805                            |                                      |
+|            | R11 - R19                 | SHUNT                          | 0805                            | bei Bedarf bestücken                 |
+|            | D1                        | CLOCK                          | 0805                            | LED grün                             |
+|            | D2 - D4                   | CONFIG                         | 0805                            | LED rot                              |
+|            | L1                        | 10µH                           | 1812                            | LQH43CN100K03L                       |
+|            | Q1                        | IRLML5203                      | SOT23-3                         | Verpolschutz                         |
+|            | U1                        | AMS1117-3.0                    | SOT23-3                         | AMS1117-3.3 möglich                  |
+|            | U2                        | MAX1724EZK30                   | SOT23-5                         | MAX1724EZK33 möglich                 |
+|            | U3                        | ATmega328P-AU                  | TQFP32 zu DIP32  Adapter Sockel | 1:1 Beschaltet !                     |
+|            | U4                        | ATmega1284P-AU                 | TQFP44 zu DIP44  Adapter Sockel | 1:1 Beschaltet !                     |
+|            | U5                        | FTDI232_PCB                    | FTDI232                         |                                      |
+|            | U6                        | ARDUINO_PRO_MINI               | ---                             | 3,3V / 8MHz Version                  |
+|            | Y1                        | CSTCC 8,00                     | Crystal:Resonator_SMD-3Pin      |                                      |
+|            | Y2                        | CSTCC 8,00                     | Crystal:Resonator_SMD-3Pin      |                                      |
+|            | IC1                       | CC1101                         | CC1101_POGOPIN                  | Programmiersockel  CC1101            |
+|            | J1                        | USB_B_Micro                    | USB-MICRO-DIP_Platine           | Netzanschlussplatine  /Buchse        |
+|            | J2                        | Stiftleiste 2x03               | 2,54mm                          | ISP                                  |
+|            | J10                       | unbestückt                     |                                 |                                      |
+|            | J5                        | Buchsenleiste 1x06             | 2,54mm                          | FTDI                                 |
+|            | J7, J11                   | Buchsenleiste 1x04             | 2,54mm                          | I2C                                  |
+|            | J12, J13                  | Buchsenleiste 1x14             | 2,54mm                          | ARDUINO PIN                          |
+|            | J3, J4                    | Buchsenleiste  1x16 (5mm hoch) | 2,54mm                          | 328_PIN oder Sockel direkt auflöten  |
+|            | J6, J8                    | Buchsenleiste 1x22  (5mm hoch) | 2,54mm                          | 1284 PIN oder Sockel direkt auflöten |
+|            | JP1 - JP6, JP8 - JP10     | Stiftleiste 1x02               | 2,54mm                          |                                      |
+|            | JP7, JP11                 | Stiftleiste 1x03               | 2,54mm                          |                                      |
+|            | SW1 - SW3, SW5            | RESET /CONFIG                  | 3x6x2,5mm                       | Tactile Push Button  SMD             |
+|            | SW4                       | NT 01                          | Micro/DIP_Schalterx01,  2,54    | EIN / AUS                            |
+|            | SW6                       | NT 02                          | Micro/DIP_Schalterx02,  2,54    | ARDUINO Frequenztest                 |
+|            | SW7                       | NT 04                          | Micro/DIP_Schalterx04,  2,54    | ARDUINO PROGRAMMER                   |
+|            | SW8                       | NT 04                          | Micro/DIP_Schalterx02,  2,54    | ARDUINO PROGRAMMER                   |
+|            | TP1, TP2                  | Stiftleiste 1x01               | 2,54mm                          | TestPin                              |
+|            |                           |                                |                                 |                                      |
+
+
+
+
 ## Links
 
 https://github.com/TomMajor/SmartHome/tree/master/HB-CC1101-Testbench
