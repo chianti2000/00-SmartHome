@@ -76,9 +76,13 @@ Auf den nachfolgenden Bildern ist der Zusammenbau gut zu erkennen.
 
 ### Bilder
 <img src="IMAGES/IMG_8985.jpg" width=330></img><img src="IMAGES/IMG_8989.jpg" width=330></img><img src="IMAGES/IMG_8990.jpg" width=330></img>
-Die Dummyplatte wird nach dem Einstecken der Pogo-Stifte Oben aufgesteckt (das geht mit Absicht etwas straff). Sie arretiert die Stifte auf die richtige Länge.Auf der Lötseite sollten diese dann ca. 2mm herausschauen.Nach dem verlöten der Pogo-Stifte kann sie wieder entfernt werden.
+
+Die Dummyplatte wird nach dem Einstecken der Pogo-Stifte Oben aufgesteckt (das geht mit Absicht etwas straff). Sie arretiert die Stifte auf die richtige Länge.Auf der Lötseite sollten diese dann ca. 2mm herausschauen. Nach dem verlöten der Pogo-Stifte kann sie wieder entfernt werden.
+
 <img src="IMAGES/IMG_8992.jpg" width=330></img><img src="IMAGES/IMG_8994.jpg" width=330></img><img src="IMAGES/IMG_8999.jpg" width=330></img>
+
 <img src="IMAGES/IMG_9003.jpg" width=330></img><img src="IMAGES/IMG_9008.jpg" width=330></img><img src="IMAGES/IMG_9017.jpg" width=330></img>
+
 <img src="IMAGES/IMG_9031.jpg" width=330></img><img src="IMAGES/IMG_9093.jpg" width=330></img>
 
 ## Links
