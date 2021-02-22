@@ -131,8 +131,9 @@ Die Dummyplatte wird nach dem Einstecken der Pogo-Stifte Oben aufgesteckt (das g
 |            | TP1, TP2                  | Stiftleiste 1x01               | 2,54mm                          | TestPin                              |
 |            |                           |                                |                                 |                                      |
 
+## Thread im Homematic Forum
 
-
+[:arrow_right: HB-UNI-TEST-PROG-BOARD](https://homematic-forum.de/forum/viewtopic.php?f=76&t=64442)
 
 ## Links
 
