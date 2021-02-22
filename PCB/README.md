@@ -5,4 +5,4 @@ Dies ist eine Sammplung meiner Platinen für den Bereich HomeMatic, AskSinPP und
 
 Eine Platine zum Programmieren des ARDUINO PRO MINI und der AVR 328P-AU /1284P-AU sowie für den Frequenztest / Frequenzpairing des Arduino / AVR mit dem CC1101. 
 
-<img src="/00-SmartHome/IMAGES/IMG_9064.jpg" width=400></img>
+<img src="/Images/IMG_9064.jpg" width=400></img>
