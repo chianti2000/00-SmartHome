@@ -106,8 +106,8 @@ Die Dummyplatte wird nach dem Einstecken der Pogo-Stifte Oben aufgesteckt (das g
 |            | Q1                        | IRLML5203                      | SOT23-3                         | Verpolschutz                         |
 |            | U1                        | AMS1117-3.0                    | SOT23-3                         | AMS1117-3.3 möglich                  |
 |            | U2                        | MAX1724EZK30                   | SOT23-5                         | MAX1724EZK33 möglich                 |
-|            | U3                        | ATmega328P-AU                  | TQFP32 zu DIP32  Adapter Sockel | 1:1 Beschaltet !   https://de.aliexpress.com/item/32479375089.html?spm=a2g0s.9042311.0.0.27424c4d4dYatr                  |
-|            | U4                        | ATmega1284P-AU                 | TQFP44 zu DIP44  Adapter Sockel | 1:1 Beschaltet !                     |
+|            | U3                        | ATmega328P-AU                  | TQFP32 zu DIP32  Adapter Sockel | 1:1 Beschaltet !  z.B. von hier: https://de.aliexpress.com/item/32413764841.html?spm=a2g0s.9042311.0.0.27424c4d4dYatr                 |
+|            | U4                        | ATmega1284P-AU                 | TQFP44 zu DIP44  Adapter Sockel | 1:1 Beschaltet !  z.B. von hier: https://de.aliexpress.com/item/32479375089.html?spm=a2g0s.9042311.0.0.27424c4d4dYatr                  |
 |            | U5                        | FTDI232_PCB                    | FTDI232                         |                                      |
 |            | U6                        | ARDUINO_PRO_MINI               | ---                             | 3,3V / 8MHz Version                  |
 |            | Y1                        | CSTCC 8,00                     | Crystal:Resonator_SMD-3Pin      |                                      |
