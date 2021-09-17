@@ -92,10 +92,10 @@ Die Dummyplatte wird nach dem Einstecken der Pogo-Stifte Oben aufgesteckt (das g
 |            |                           |                                |                                 |                                      |
 | Anzahl     | Name                      | Wert                           | Gehäuse                         | Bemerkung                            |
 |            | BT1                       | Batteriehalter AA              |                                 | KEYSTONE 1028 oder GOOBAY_AA         |
-|            | C1, C3                    | 100µF/mind 5V                  | bedrahtet, Radial               |                                      |
+|            | C1, C3                    | 100µF/mind. 5V                 | bedrahtet, Radial               |                                      |
 |            | C5  - C12, C14 - C15, C18 | 100n                           | 0805                            |                                      |
 |            | C13                       | 1µ                             | 0805                            |                                      |
-|            | C2, C4, C17               | 10µF / mind 5V                 | 0805                            |                                      |
+|            | C2, C4, C17               | 10µF / mind. 5V                | 0805                            |                                      |
 |            | R1, R2, R3, R6-R8,  R20   | 10k                            | 0805                            |                                      |
 |            | R9                        | 100k                           | 0805                            |                                      |
 |            | R4, R5,R10, R18           | 1,5k                           | 0805                            |                                      |
