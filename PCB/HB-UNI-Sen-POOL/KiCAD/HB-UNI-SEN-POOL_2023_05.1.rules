@@ -1,0 +1,118 @@
+
+(rules PCB HB-UNI-SEN-POOL_2023_05
+  (snap_angle 
+    fortyfive_degree
+  )
+  (autoroute_settings
+    (fanout off)
+    (autoroute on)
+    (postroute on)
+    (vias on)
+    (via_costs 50)
+    (plane_via_costs 5)
+    (start_ripup_costs 100)
+    (start_pass_no 3)
+    (layer_rule F.Cu
+      (active on)
+      (preferred_direction horizontal)
+      (preferred_direction_trace_costs 1.0)
+      (against_preferred_direction_trace_costs 2.2)
+    )
+    (layer_rule B.Cu
+      (active on)
+      (preferred_direction vertical)
+      (preferred_direction_trace_costs 1.0)
+      (against_preferred_direction_trace_costs 1.8)
+    )
+  )
+  (rule
+    (width 250.0)
+    (clear 200.0)
+    (clear 125.0 (type smd_to_turn_gap))
+    (clear 50.0 (type smd-smd))
+  )
+  (padstack "Via[0-1]_800:400_um"
+    (shape
+      (circle F.Cu 800.0 0.0 0.0)
+    )
+    (shape
+      (circle B.Cu 800.0 0.0 0.0)
+    )
+    (attach off)
+  )
+  (via 
+    "Via[0-1]_800:400_um" "Via[0-1]_800:400_um" default
+  )
+  (via 
+    "Via[0-1]_800:400_um-kicad_default" "Via[0-1]_800:400_um" "kicad_default"
+  )
+  (via 
+    "Via[0-1]_800:400_um-Default neu" "Via[0-1]_800:400_um" "Default neu"
+  )
+  (via 
+    "Via[0-1]_800:400_um-Spannung" "Via[0-1]_800:400_um" Spannung
+  )
+  (via_rule
+    default "Via[0-1]_800:400_um"
+  )
+  (via_rule
+    "kicad_default" "Via[0-1]_800:400_um-kicad_default"
+  )
+  (via_rule
+    "Default neu" "Via[0-1]_800:400_um-Default neu"
+  )
+  (via_rule
+    Spannung "Via[0-1]_800:400_um-Spannung"
+  )
+  (class default
+    "Net-(C1-Pad1)" "Net-(C1-Pad2)" "/LED_D1" "Net-(D3-Pad2)" "Net-(D4-Pad2)" /A0 "Net-(J3-Pad2)" "Net-(J4-Pad2)"
+    /D2 /D3 /D22 /D23 /D20 /D21 /D11 /D12
+    /D18 /D19 "Net-(J12-Pad1)" "Net-(J12-Pad2)" "Net-(J12-Pad3)" "Net-(J13-Pad1)" "Net-(J13-Pad2)" "Net-(J13-Pad3)"
+    "unconnected-(J14-Pad2)" "unconnected-(J14-Pad4)" /CONFIG /A4 /D13 "Net-(J18-Pad1)" /A7 /A6
+    /D10 "Net-(JP5-Pad2)" "Net-(Q1-Pad1)" "Net-(Q2-Pad2)" /A5 /D0 "/PH-ORP-TOGGLE" "unconnected-(U1-Pad1)"
+    "unconnected-(U1-Pad2)" "unconnected-(U1-Pad3)" "unconnected-(U1-Pad4)" "unconnected-(U1-Pad5)" "unconnected-(U2-Pad1)" "unconnected-(U2-Pad2)" "unconnected-(U2-Pad3)" "unconnected-(U2-Pad4)"
+    "unconnected-(U2-Pad5)" "unconnected-(U7-Pad2)" "unconnected-(U7-Pad7)" "Net-(U8-Pad7)" "Net-(U8-Pad8)" "unconnected-(U8-Pad15)" "unconnected-(U9-Pad6)" "unconnected-(U9-Pad9)"
+    "unconnected-(U9-Pad10)" "unconnected-(U9-Pad11)"
+    (clearance_class default)
+    (via_rule default)
+    (rule
+      (width 250.0)
+    )
+    (circuit 
+      (use_layer F.Cu B.Cu)
+    )
+  )
+  (class "kicad_default"
+    (clearance_class "kicad_default")
+    (via_rule "kicad_default")
+    (rule
+      (width 250.0)
+    )
+    (circuit 
+      (use_layer F.Cu B.Cu)
+    )
+  )
+  (class "Default neu"
+    GND /DTR /RESET /AREF /A1 /SCL /SDA /TX
+    /RX /MISO /SCK /MOSI /CS /A3 /A2
+    (clearance_class "Default neu")
+    (via_rule "Default neu")
+    (rule
+      (width 400.0)
+    )
+    (circuit 
+      (use_layer F.Cu B.Cu)
+    )
+  )
+  (class Spannung
+    +5V +3.3V
+    (clearance_class Spannung)
+    (via_rule Spannung)
+    (rule
+      (width 500.0)
+    )
+    (circuit 
+      (use_layer F.Cu B.Cu)
+    )
+  )
+)
